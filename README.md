@@ -1,5 +1,5 @@
-# VID-Flight-Platforn
-The flight platforn for the VID-Dataset
+# VID-Flight-Platform
+The flight platform for the [VID-Dataset](https://github.com/ZJU-FAST-Lab/VID-Dataset)
 
 ## File structure 
 
