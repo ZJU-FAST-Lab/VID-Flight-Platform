@@ -37,11 +37,11 @@ The flight platform for the [VID-Dataset](https://github.com/ZJU-FAST-Lab/VID-Da
 
 ## Assembly drawing 
 
-![Assembly](https://github.com/ZJU-FAST-Lab/VID-Flight-Platforn/blob/main/img/Assembly.png)
+![Assembly](https://github.com/ZJU-FAST-Lab/VID-Flight-Platforn/blob/main/img/drone.png)
 
 ## Drone 
 
-![Assembly](https://github.com/ZJU-FAST-Lab/VID-Flight-Platforn/blob/main/img/Assembly.png)
+![Drone](https://github.com/ZJU-FAST-Lab/VID-Flight-Platforn/blob/main/img/drone.png)
 
 
 
