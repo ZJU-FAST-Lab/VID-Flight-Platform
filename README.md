@@ -13,7 +13,7 @@ The flight platform for the [VID-Dataset](https://github.com/ZJU-FAST-Lab/VID-Da
 
 ## PCB
 
-![PCB Interface](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/pcbinterface.png)
+![PCB Interface](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/pcb_interface.png)
 
 ## Drone 
 
