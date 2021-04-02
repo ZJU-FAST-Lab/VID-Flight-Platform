@@ -33,8 +33,6 @@ The flight platform for the [VID-Dataset](https://github.com/ZJU-FAST-Lab/VID-Da
 
 ![Real PCB 2](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/pcb.png)
 
-
-
 ## Assembly drawing 
 
 ![Assembly](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/drone.png)
