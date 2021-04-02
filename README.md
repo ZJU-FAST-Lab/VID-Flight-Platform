@@ -1,7 +1,7 @@
 # VID-Flight-Platforn
 The flight platforn for the VID-Dataset
 
-
+## File structure 
 
 | Folder    | Content                       |
 | --------- | ----------------------------- |
