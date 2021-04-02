@@ -13,7 +13,7 @@ The flight platform for the [VID-Dataset](https://github.com/ZJU-FAST-Lab/VID-Da
 
 
 
-## AD Files
+## Schematic
 
 ![SCH1](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/sch1.png)
 
@@ -25,15 +25,11 @@ The flight platform for the [VID-Dataset](https://github.com/ZJU-FAST-Lab/VID-Da
 
 ![SCH5](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/sch5.png)
 
-![PCB](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/pcb.png)
-
 ## PCB
 
-![Real PCB 1](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/pcb.png)
+![Real PCB 1](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/pcbinterface .png)
 
-![Real PCB 2](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/pcb.png)
-
-## Assembly drawing 
+## Assembly
 
 ![Assembly](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/drone.png)
 
