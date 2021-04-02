@@ -27,7 +27,7 @@ The flight platform for the [VID-Dataset](https://github.com/ZJU-FAST-Lab/VID-Da
 
 ## PCB
 
-![Real PCB 1](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/pcbinterface .png)
+![PCB Interface](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/pcbinterface.png)
 
 ## Assembly
 
