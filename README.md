@@ -5,8 +5,7 @@ The flight platform for the [VID-Dataset](https://github.com/ZJU-FAST-Lab/VID-Da
 
 | Folder         | Content                                                      |
 | -------------- | ------------------------------------------------------------ |
-| /mcu1          | MDK project for the MCU1                                     |
-| /mcu2          | MDK project for the MCU2                                     |
+| /mcu           | MDK project for the MCU                                      |
 | /pcb/AD        | AD files of the pcb                                          |
 | /pcb/pdf       | PDF file of the pcb                                          |
 | /assembly      | Assembly drawing of the drone                                |
