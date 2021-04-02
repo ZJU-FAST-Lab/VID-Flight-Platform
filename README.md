@@ -3,7 +3,7 @@ The flight platforn for the VID-Dataset
 
 
 
-| Folder    |                               |
+| Folder    | Content                       |
 | --------- | ----------------------------- |
 | /mcu1     | MDK project for the MCU1      |
 | /mcu2     | MDK project for the MCU2      |
