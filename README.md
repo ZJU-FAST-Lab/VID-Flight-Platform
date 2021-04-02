@@ -13,9 +13,31 @@ The flight platforn for the VID-Dataset
 
 
 
+## AD Files
+
+![SCH1](https://github.com/ZJU-FAST-Lab/VID-Flight-Platforn/blob/main/img/sch1.png)
+
+![SCH2](https://github.com/ZJU-FAST-Lab/VID-Flight-Platforn/blob/main/img/sch2.png)
+
+![SCH3](https://github.com/ZJU-FAST-Lab/VID-Flight-Platforn/blob/main/img/sch3.png)
+
+![SCH4](https://github.com/ZJU-FAST-Lab/VID-Flight-Platforn/blob/main/img/sch4.png)
+
+![SCH5](https://github.com/ZJU-FAST-Lab/VID-Flight-Platforn/blob/main/img/sch5.png)
+
+![PCB](https://github.com/ZJU-FAST-Lab/VID-Flight-Platforn/blob/main/img/pcb.png)
 
 
 
+## PCB
+
+![Real PCB](https://github.com/ZJU-FAST-Lab/VID-Flight-Platforn/blob/main/img/pcb.png)
+
+
+
+## Assembly drawing 
+
+![Assembly ](https://github.com/ZJU-FAST-Lab/VID-Flight-Platforn/blob/main/img/pcb.png)
 
 
 
