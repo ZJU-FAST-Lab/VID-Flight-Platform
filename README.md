@@ -13,7 +13,7 @@ The flight platform for the [VID-Dataset](https://github.com/ZJU-FAST-Lab/VID-Da
 
 ## Assembly 
 
-![Assembly](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/m100_m3508.png)
+![Assembly](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/blob/main/img/illustration.png)
 
 ## PCB
 
